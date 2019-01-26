@@ -2,7 +2,7 @@ User Stories
 
 Create Users with e-mail, accounts for tracking 
 
-Each User should have a list of what they owe
+Each User should have a list of what they owe and what the bet was/why they lost
 
 There should be a view for seeing all debts across all users in a group
 
@@ -11,6 +11,7 @@ Users can join groups with visibility for same wager data
 Users can create private wagers
 
 Make updates to data from smart watch, smart phone, alexa, web app?
+
 
 Model
 How will data be stored? Google Sheet
@@ -22,9 +23,4 @@ Phones/ Smart Watches
 
 
 Bonus:
-
-Enter what are the odds numbers during countdown screen and have the app display the results/ determine the outcomes
-
-make shot bets with google-able terms. Automatically applies outcomes
-
 
